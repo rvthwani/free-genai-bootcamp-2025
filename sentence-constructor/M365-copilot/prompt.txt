@@ -95,6 +95,7 @@ Here are example of user input and assistant output, pay attention to the becaus
       [Location] [Subject] [Verb], [Object] [Verb-Past]?
       
     </assistant-output>
+</example>
 
 
 ## Student Input
