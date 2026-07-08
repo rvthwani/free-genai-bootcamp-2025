@@ -18,3 +18,5 @@ We are considering using IBM Granite because its a truly open-source model with 
 
 https://huggingface.co/ibm-granite
 
+It appears that M365 copilot does not have any special prompting requirements to best understand context like other models.
+
